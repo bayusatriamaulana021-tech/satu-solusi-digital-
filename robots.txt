@@ -8,4 +8,4 @@ Allow: /
 User-agent: Bingbot
 Allow: /
 
-Sitemap: https://maulanabayusatria.my.id/sitemap.xml
+Sitemap: https://satusolusidigital.my.id/sitemap.xml
